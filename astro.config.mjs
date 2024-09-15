@@ -4,6 +4,4 @@ import { defineConfig } from 'astro/config';
 export default defineConfig({
   site: 'https://darnedog.github.io',
   base: '/portfolio',
-  outDir: 'public',
-  publicDir: 'static',
 });
